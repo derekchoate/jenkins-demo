@@ -4,6 +4,6 @@ public with sharing class demo {
 	}
 
 	public demo(string hello) {
-		
+		System.debug(hello);
 	}
 }
