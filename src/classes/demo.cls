@@ -7,5 +7,6 @@ public with sharing class demo {
 		System.debug(hello);
 		Integer x = 1;
 		x++;
+		x--;
 	}
 }
